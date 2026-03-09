@@ -16,4 +16,6 @@ Key insights presented in the dashboard include:
 
 - **Customer Profile Analysis:** A detailed table provides customer-level insights including customer ID, city, average sales amount, and number of orders, helping identify valuable customers and purchasing patterns.
 
-Overall, the dashboard enables stakeholders to monitor regional performance, analyze customer segments, and identify key sales drivers through clear and interactive visualizations.<img width="628" height="776" alt="image" src="https://github.com/user-attachments/assets/3067b945-3d0c-4123-9fee-27aafe424cc4" />
+Overall, the dashboard enables stakeholders to monitor regional performance, analyze customer segments, and identify key sales drivers through clear and interactive visualizations.
+---------
+<img width="628" height="776" alt="image" src="https://github.com/user-attachments/assets/3067b945-3d0c-4123-9fee-27aafe424cc4" />
