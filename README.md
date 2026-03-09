@@ -19,5 +19,5 @@ Key insights presented in the dashboard include:
 Overall, the dashboard enables stakeholders to monitor regional performance, analyze customer segments, and identify key sales drivers through clear and interactive visualizations.
 
 ---
-<img width="861" height="778" alt="image" src="https://github.com/user-attachments/assets/34df8798-778b-4ad5-8fc2-bb8dea1d7b6e" />
+<img width="767" height="776" alt="image" src="https://github.com/user-attachments/assets/12d402c0-1bb9-4cbb-a879-e4195d461172" />
 
