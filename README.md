@@ -21,3 +21,36 @@ Overall, the dashboard enables stakeholders to monitor regional performance, ana
 ---
 <img width="767" height="776" alt="image" src="https://github.com/user-attachments/assets/12d402c0-1bb9-4cbb-a879-e4195d461172" />
 
+# Features
+**Geographic Analysis**
+
+Interactive US Heat Map: Visualize year-over-year sales comparison by state
+State-level Performance Metrics: Identify top-performing states with detailed sales figures
+Color-coded intensity mapping for quick performance assessment
+
+**Temporal Analysis**
+
+Monthly Sales Trends: Track sales performance throughout 2017
+Segment Breakdown: Analyze revenue by customer type (Consumer, Corporate, Home Office)
+Stacked Bar Charts: Understand contribution of each segment to total sales
+
+**Customer Profiling**
+
+Detailed Customer Records: View individual customer information including:
+
+- Customer Name and ID
+- Geographic Location (City)
+- Average Sales Amount
+- Number of Orders
+
+**Advanced Filtering**
+
+Multi-dimensional Filters:
+
+- State selection
+- City filtering
+- Customer-specific analysis
+- Custom date range selection
+
+**Real-time dashboard updates based on filter criteria**
+
